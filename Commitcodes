@@ -1,0 +1,3 @@
+git add .
+git commit -m "Setup automated deployment"
+git push origin main
